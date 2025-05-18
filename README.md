@@ -29,13 +29,11 @@ Net Sales Trend Over Time: Visualization of sales performance across different d
 Top-Selling Items: Identification of the highest-selling products (Running Shoes are the top seller, followed by Tennis Shoes).
 
 
-
 Technology Stack:
 
 Power BI: For creating and visualizing interactive dashboards.
 
 Excel: As the data source, provides structured data about Shopify 
-
 
 
 Expected Outcomes:
