@@ -30,15 +30,11 @@ Top-Selling Items: Identification of the highest-selling products (Running Shoes
 
 
 
-
-
 Technology Stack:
 
 Power BI: For creating and visualizing interactive dashboards.
 
 Excel: As the data source, provides structured data about Shopify 
-
-
 
 
 
